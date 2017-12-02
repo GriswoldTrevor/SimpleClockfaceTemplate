@@ -1,0 +1,12 @@
+/* 348px x 250px */
+
+#timeText {
+  text-length: 22;
+  text-anchor: middle;
+  font-family: System-Bold;
+  fill: white;
+  font-size: 112;
+  letter-spacing: 0;
+  x: 174;
+  y: 162;
+}
